@@ -1,2 +1,1 @@
-# 2022-cpl-coding-1
-2022 CPL Coding for Class 1
+大一上（2022秋）C语言程序设计课程代码
